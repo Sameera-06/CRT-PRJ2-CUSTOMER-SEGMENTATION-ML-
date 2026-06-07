@@ -115,11 +115,6 @@ CUSTOMER SEGMENTATION(DA)
 * Determine optimal number of clusters.
 * Generate elbow plot.
 
-Output:
-
-```text
-outputs/elbow_plot.png
-```
 
 ### Step 5: K-Means Clustering
 
@@ -127,35 +122,20 @@ outputs/elbow_plot.png
 * Assign customers to clusters.
 * Generate segmented dataset.
 
-Output:
 
-```text
-outputs/segmented_customers.csv
-```
 
 ### Step 6: Cluster Analysis
 
 * Calculate cluster statistics.
 * Generate cluster summary report.
 
-Output:
 
-```text
-outputs/cluster_summary.csv
-```
 
 ### Step 7: Visualization
 
 Generate visual representations of customer groups.
 
-Outputs:
 
-```text
-outputs/customer_segments.png
-outputs/pca_clusters.png
-```
-
----
 
 ## Output Files
 
