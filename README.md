@@ -309,8 +309,8 @@ Developed a Customer Segmentation system using K-Means Clustering and PCA to ana
 ---
 
 ## Author
-
-SAMEERA.SHAIK
+ SAMEERA.SHAIK
+ 
 ---
 
 ## License
