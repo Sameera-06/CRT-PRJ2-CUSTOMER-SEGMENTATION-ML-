@@ -147,6 +147,7 @@ Contains statistical summaries for each customer segment.
 ### segmented_customers.csv
 
 Original customer data with assigned cluster labels.
+
 ![alt text](image-2.png)
 
 ### elbow_plot.png
